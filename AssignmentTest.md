@@ -11,8 +11,9 @@ Date, Subject, Syllabus
 20 Nov, Maths, Chapter 1-5
 
 Below is list of Assignments which needs to be submitted
-AssignmentName|Subject|DueDate| IsCompleted| GivenBy
-Hygiene Podcast, ME, 25/11/2023, No, Teacher
-All Pending, Art, 20/11/2023, No, Teacher
-Data type & Sorting, ICT, 18/11/2023, No, Teacher
-Revision Worksheet, English, 18/11/2023, No, Teacher
+AssignmentName|Subject|DueDate| IsCompleted
+---|---|---|---
+Hygiene Podcast| ME| 25/11/2023| No
+All Pending| Art| 20/11/2023| No
+Data type & Sorting| ICT| 18/11/2023| No
+Revision Worksheet| English| 18/11/2023| No
